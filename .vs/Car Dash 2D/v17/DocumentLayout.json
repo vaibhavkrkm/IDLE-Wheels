@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Unity Projects\\Car Dash 2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|p:\\unity projects\\car dash 2d\\assets\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|P:\\Unity Projects\\Car Dash 2D\\assets\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|solutionrelative:assets\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|P:\\Unity Projects\\Car Dash 2D\\assets\\starscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|solutionrelative:assets\\starscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|P:\\Unity Projects\\Car Dash 2D\\assets\\mainmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|P:\\Unity Projects\\Car Dash 2D\\assets\\roadscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|solutionrelative:assets\\roadscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|P:\\Unity Projects\\Car Dash 2D\\assets\\mainmusicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmusicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|P:\\Unity Projects\\Car Dash 2D\\assets\\stargroupscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|solutionrelative:assets\\stargroupscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|P:\\Unity Projects\\Car Dash 2D\\assets\\carscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFFF6-49DE-C4C3-6F3A-313BB5E41040}|Assembly-CSharp.csproj|solutionrelative:assets\\carscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 185,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuScript.cs",
+              "DocumentMoniker": "P:\\Unity Projects\\Car Dash 2D\\Assets\\MainMenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenuScript.cs",
+              "ToolTip": "P:\\Unity Projects\\Car Dash 2D\\Assets\\MainMenuScript.cs",
+              "RelativeToolTip": "Assets\\MainMenuScript.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:06:03.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMusicScript.cs",
+              "DocumentMoniker": "P:\\Unity Projects\\Car Dash 2D\\Assets\\MainMusicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMusicScript.cs",
+              "ToolTip": "P:\\Unity Projects\\Car Dash 2D\\Assets\\MainMusicScript.cs",
+              "RelativeToolTip": "Assets\\MainMusicScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:05:39.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StarGroupScript.cs",
+              "DocumentMoniker": "P:\\Unity Projects\\Car Dash 2D\\Assets\\StarGroupScript.cs",
+              "RelativeDocumentMoniker": "Assets\\StarGroupScript.cs",
+              "ToolTip": "P:\\Unity Projects\\Car Dash 2D\\Assets\\StarGroupScript.cs",
+              "RelativeToolTip": "Assets\\StarGroupScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:21:34.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StarScript.cs",
+              "DocumentMoniker": "P:\\Unity Projects\\Car Dash 2D\\Assets\\StarScript.cs",
+              "RelativeDocumentMoniker": "Assets\\StarScript.cs",
+              "ToolTip": "P:\\Unity Projects\\Car Dash 2D\\Assets\\StarScript.cs",
+              "RelativeToolTip": "Assets\\StarScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:18:55.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarScript.cs",
+              "DocumentMoniker": "P:\\Unity Projects\\Car Dash 2D\\Assets\\CarScript.cs",
+              "RelativeDocumentMoniker": "Assets\\CarScript.cs",
+              "ToolTip": "P:\\Unity Projects\\Car Dash 2D\\Assets\\CarScript.cs",
+              "RelativeToolTip": "Assets\\CarScript.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T11:23:32.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "P:\\Unity Projects\\Car Dash 2D\\Assets\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerScript.cs",
+              "ToolTip": "P:\\Unity Projects\\Car Dash 2D\\Assets\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\PlayerScript.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:15:02.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManagerScript.cs",
+              "DocumentMoniker": "P:\\Unity Projects\\Car Dash 2D\\Assets\\GameManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManagerScript.cs",
+              "ToolTip": "P:\\Unity Projects\\Car Dash 2D\\Assets\\GameManagerScript.cs",
+              "RelativeToolTip": "Assets\\GameManagerScript.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:02:57.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoadScript.cs",
+              "DocumentMoniker": "P:\\Unity Projects\\Car Dash 2D\\Assets\\RoadScript.cs",
+              "RelativeDocumentMoniker": "Assets\\RoadScript.cs",
+              "ToolTip": "P:\\Unity Projects\\Car Dash 2D\\Assets\\RoadScript.cs",
+              "RelativeToolTip": "Assets\\RoadScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:40:49.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
