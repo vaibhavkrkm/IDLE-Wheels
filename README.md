@@ -38,7 +38,7 @@ git clone https://github.com/vaibhavkrkm/IDLE-Wheels.git
   - `/Scenes/`: Conatins all the scenes in the game.
   - `/Sounds/`: Contains all sound effects used in the game.
 ## 🤝 Credits
-Many thanks to all the asset owners who helped in development of the game! For a comprehensive list of all assets and their respective owners, please refer to the `Credits.txt` file in this repository.
+Many thanks to all the asset owners who helped in development of the game! For a comprehensive list of all assets and their respective owners, please refer to the `Credits.md` file in this repository.
 
 If I forget to attribute any respectful asset I used in the project, please feel free to contact me at: vaibhavkrkm@gmail.com
 ## 📃 License
