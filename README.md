@@ -28,7 +28,7 @@ git clone https://github.com/vaibhavkrkm/IDLE-Wheels.git
 3. Click the *Play* button in the editor to start playing.
     
 ## 📦 Project Structure
-**✅ Made with Unity 2022**
+**✅ Made with Unity 2022 (Now updated to Unity 6)**
 - `/Assets/`: Top level directory for storing all kinds of assets used in the game (Animations, Scenes, Music, Fonts, Sprites, Prefabs etc).
   - `/Animations/`: Directory for storing all the animations used in the project.
   - `/Fonts/`: Directory for storing all kinds of font assets and data used in the game.
