@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Unity Projects\\IDLE Wheels\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{165C604C-8CAE-504E-1495-68D74E7DFADA}|Assembly-CSharp.csproj|p:\\unity projects\\idle wheels\\assets\\leantween\\examples\\scripts\\testingunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165C604C-8CAE-504E-1495-68D74E7DFADA}|Assembly-CSharp.csproj|solutionrelative:assets\\leantween\\examples\\scripts\\testingunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165C604C-8CAE-504E-1495-68D74E7DFADA}|Assembly-CSharp.csproj|p:\\unity projects\\idle wheels\\assets\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165C604C-8CAE-504E-1495-68D74E7DFADA}|Assembly-CSharp.csproj|solutionrelative:assets\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165C604C-8CAE-504E-1495-68D74E7DFADA}|Assembly-CSharp.csproj|P:\\Unity Projects\\IDLE Wheels\\assets\\starscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165C604C-8CAE-504E-1495-68D74E7DFADA}|Assembly-CSharp.csproj|solutionrelative:assets\\starscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165C604C-8CAE-504E-1495-68D74E7DFADA}|Assembly-CSharp.csproj|P:\\Unity Projects\\IDLE Wheels\\assets\\mainmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165C604C-8CAE-504E-1495-68D74E7DFADA}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestingUnitTests.cs",
+              "DocumentMoniker": "P:\\Unity Projects\\IDLE Wheels\\Assets\\LeanTween\\Examples\\Scripts\\TestingUnitTests.cs",
+              "RelativeDocumentMoniker": "Assets\\LeanTween\\Examples\\Scripts\\TestingUnitTests.cs",
+              "ToolTip": "P:\\Unity Projects\\IDLE Wheels\\Assets\\LeanTween\\Examples\\Scripts\\TestingUnitTests.cs",
+              "RelativeToolTip": "Assets\\LeanTween\\Examples\\Scripts\\TestingUnitTests.cs",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAswJcBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:54:26.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "P:\\Unity Projects\\IDLE Wheels\\Assets\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerScript.cs",
+              "ToolTip": "P:\\Unity Projects\\IDLE Wheels\\Assets\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\PlayerScript.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:08:08.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StarScript.cs",
+              "DocumentMoniker": "P:\\Unity Projects\\IDLE Wheels\\Assets\\StarScript.cs",
+              "RelativeDocumentMoniker": "Assets\\StarScript.cs",
+              "ToolTip": "P:\\Unity Projects\\IDLE Wheels\\Assets\\StarScript.cs",
+              "RelativeToolTip": "Assets\\StarScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:07:44.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuScript.cs",
+              "DocumentMoniker": "P:\\Unity Projects\\IDLE Wheels\\Assets\\MainMenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenuScript.cs",
+              "ToolTip": "P:\\Unity Projects\\IDLE Wheels\\Assets\\MainMenuScript.cs",
+              "RelativeToolTip": "Assets\\MainMenuScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:25:28.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
